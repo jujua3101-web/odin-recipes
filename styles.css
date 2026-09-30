@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(251, 228, 231)
+}
+
+h1{
+    color:rgb(138, 1, 63);
+    text-align: center;
+}
+
+.intro{
+    font-size: 17px;
+    color:darkslategray;
+    margin-left:40px;
+    margin-right:40px;
+    text-align:center;
+    font-style: italic;
+}
+
+figcaption{
+    text-align: center;
+    width: 200px;
+    font-weight: bolder;
+    padding-top:10px;
+}
+
+figure{
+    display: inline-block;
+}
